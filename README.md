@@ -1,6 +1,5 @@
 # Visualization-with-PowerBI
 
-### Visualization with Power BI
 
 **Introduction to Power BI**
 
