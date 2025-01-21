@@ -18,6 +18,22 @@
 8. Do your best to ensure your text and visual colors have [sufficient contrast](https://webaim.org/resources/contrastchecker/) (4.5:1 for text, 3:1 for graphical objects). 
 9. Optional bonus: Create a legend that explains the current and prior year symbols and colors. It should change to the correct colors as you switch from light to dark mode
 
-### An overview of project modes:
+## An overview of project modes:
+
+
 
 ![DM_1](https://github.com/fazelif/Visualization-with-PowerBI/blob/main/Visual-Sample/Pictures/DL_1.PNG)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![LM_2](https://github.com/fazelif/Visualization-with-PowerBI/blob/main/Visual-Sample/Pictures/DL_2.PNG)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### Project link:
+
+https://github.com/fazelif/Visualization-with-PowerBI/blob/main/Visual-Sample/Projects/Project_Report%20with%20Light%20and%20Dark%20Mode/F_2024%20Sales%20Report.pbix
