@@ -1,6 +1,6 @@
 
 # Visualize Ranges with Percentiles
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 A percentile is a number that indicates the position of a data point within a numeric dataset and shows the percentage of data points that have a value equal to or less than it (assuming it is inclusive). Percentiles are useful tools for analyzing test scores, stock values, health indicators, and other metrics. In this project, we will use this concept to examine blood glucose measurements.
 
