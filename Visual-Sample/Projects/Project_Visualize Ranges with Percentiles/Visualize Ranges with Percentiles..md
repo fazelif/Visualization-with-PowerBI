@@ -18,7 +18,6 @@ In this project, we will look at measurements over several days and visualize th
 5. Add reference lines for the values 80 and 180.
 
 ## An overview of project:
------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![VP](https://github.com/fazelif/Visualization-with-PowerBI/blob/main/Visual-Sample/Pictures/VP.PNG)
 
