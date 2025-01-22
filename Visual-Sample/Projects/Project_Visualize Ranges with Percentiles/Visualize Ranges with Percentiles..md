@@ -26,4 +26,4 @@ In this project, we will look at measurements over several days and visualize th
 
 # Project link:
 
-[Project link](https://github.com/fazelif/Visualization-with-PowerBI/blob/main/Visual-Sample/Projects/Project_Visualize%20Ranges%20with%20Percentiles/F_Visualizing%20Ranges%20with%20Percentiles.pbix)
+[Project link_Click here](https://github.com/fazelif/Visualization-with-PowerBI/blob/main/Visual-Sample/Projects/Project_Visualize%20Ranges%20with%20Percentiles/F_Visualizing%20Ranges%20with%20Percentiles.pbix)
